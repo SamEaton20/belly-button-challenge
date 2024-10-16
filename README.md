@@ -7,6 +7,6 @@ The bubble chart represents the number of bacteria in a sample value. With, this
 
 The dropdown box, or Test subject ID Number, has the different subjects.
 
-![Screenshot 2024-10-07 221053](https://github.com/user-attachments/assets/902929cb-2067-4b5f-956b-263351b4fd12)
+![Screenshot 2024-10-07 221053](https://github.com/user-attachments/assets/44c8fbcf-deba-4e7e-b4d9-d74e15d74742)
 
 This is an example of one subject from the Data.
